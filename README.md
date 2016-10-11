@@ -9,6 +9,7 @@ Unityの練習用リポジトリ
 - Practice-005: 十字キーでカメラを移動させる
 - Practice-006: GUIでボタンを表示する
 - Practice-007: ビルボードを表示する
+- Practice-008: プレハブをコピーする
 
 ## ライセンス
 MIT
