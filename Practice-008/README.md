@@ -55,3 +55,9 @@ Assets/CopyPrefab.cs
 ## 作者
 
 - hikipuro
+
+## 画像素材について
+
+ぴぽやさんからお借りしました。ありがとうございます！
+
+http://piposozai.wiki.fc2.com/
