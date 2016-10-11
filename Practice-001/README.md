@@ -34,3 +34,7 @@ Assets/ChangeColor.cs
 ## 実行環境
 
 - Unity 5.3.5f1
+
+## 作者
+
+- hikipuro

@@ -15,6 +15,7 @@
 Main シーンと同じ状態を作るには:
 
 - Unity で新規シーンを作成 (File - New Scene)
+- Plane を 1 個設置 (GameObject - 3D Object - Plane)
 - GameObject を 1 個設置 (GameObject - Create Empty)
 - GameObject 内に Cube を 2 個設置 (GameObject - 3D Object - Cube)
 - Cube が 2 個入った GameObject をコピーして回転させる (3 回繰り返す)
@@ -31,3 +32,7 @@ Assets/RotateCamera.cs
 ## 実行環境
 
 - Unity 5.3.5f1
+
+## 作者
+
+- hikipuro
