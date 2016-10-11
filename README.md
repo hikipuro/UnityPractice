@@ -10,6 +10,7 @@ Unityの練習用リポジトリ
 - Practice-006: GUIでボタンを表示する
 - Practice-007: ビルボードを表示する
 - Practice-008: プレハブをコピーする
+- Practice-009: コードでメッシュを作成する
 
 ## ライセンス
 MIT
