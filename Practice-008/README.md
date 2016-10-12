@@ -2,6 +2,8 @@
 
 プレハブをコピーする
 
+![Practice 008](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-008.png)
+
 プレハブとは:
 - オブジェクトを再利用するためのテンプレート
 

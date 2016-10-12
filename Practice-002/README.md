@@ -2,6 +2,8 @@
 
 カメラをその場で回転させる
 
+![Practice 002](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-002.png)
+
 ## 使い方
 
 - Unity を起動

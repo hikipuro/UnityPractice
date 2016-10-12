@@ -2,6 +2,8 @@
 
 GUIでボタンを表示する
 
+![Practice 006](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-006.png)
+
 ## 使い方
 
 - Unity を起動

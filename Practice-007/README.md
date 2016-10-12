@@ -2,8 +2,10 @@
 
 ビルボードを表示する
 
-ビルボードとは
-: カメラに向かって、常に正面を向くオブジェクト
+![Practice 007](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-007.png)
+
+ビルボードとは:
+- カメラに向かって、常に正面を向くオブジェクト
 
 ## 使い方
 

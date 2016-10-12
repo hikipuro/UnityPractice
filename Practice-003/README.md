@@ -2,6 +2,8 @@
 
 クリックした位置にゲームオブジェクトを移動させる
 
+![Practice 003](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-003.png)
+
 ## 使い方
 
 - Unity を起動

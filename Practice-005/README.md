@@ -2,6 +2,8 @@
 
 十字キーでカメラを移動させる
 
+![Practice 005](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-005.png)
+
 ## 使い方
 
 - Unity を起動

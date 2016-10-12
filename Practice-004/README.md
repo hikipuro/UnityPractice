@@ -2,6 +2,8 @@
 
 コードでテクスチャを作成する
 
+![Practice 004](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-004.png)
+
 ## 使い方
 
 - Unity を起動

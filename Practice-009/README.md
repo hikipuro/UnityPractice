@@ -2,6 +2,8 @@
 
 コードでメッシュを作成する
 
+![Practice 009](https://raw.githubusercontent.com/hikipuro/UnityPractice/image/image/screenshot/Practice-009.png)
+
 メッシュとは:
 - 立体的に配置された三角形の集まり (座標の列)
 - 三角形の集まりにすると、Unity 上で立体的に表示することができる
