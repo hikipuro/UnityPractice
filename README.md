@@ -17,20 +17,7 @@ Unityの練習用リポジトリ
 - [Practice-013](src/Practice-013): シェーダーでテクスチャを作成する
 
 ## ライセンス
-MIT
+- MIT
 
 ## サンプルの作り方
-- Unity を起動して新規プロジェクトを作成
-- プロジェクトの設定 (Edit - Project Settings - Editor)
-  - Version Control
-    - Mode: Visible Meta Files
-  - Asset Serialization
-    - Mode: Force Text
-- UnityPractice フォルダ直下からファイルをコピー
-  - .gitignore
-  - README.md
-- Visual Studio Code で .md ファイルを修正
-  - UnityPractice フォルダ直下の README.md
-  - プロジェクトフォルダ内の README.md
-- Unity でサンプル作成
-- GitHub Desktop アプリでコミット
+- [Wiki](https://github.com/hikipuro/UnityPractice/wiki) に移動しました
