@@ -12,7 +12,6 @@
 ## 使い方
 
 - Unity を起動
-- UnityPractice/Practice-013 フォルダを開く
 - プロジェクトビュー内で Main をダブルクリック
 
 ## 説明
