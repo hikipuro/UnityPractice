@@ -17,7 +17,7 @@ Unityの練習用リポジトリ
 - [Practice-013](src/Practice-013): シェーダーでテクスチャを作成する
 
 ## ライセンス
-- MIT
+- [MIT](LICENSE)
 
 ## サンプルの作り方
 - [Wiki](https://github.com/hikipuro/UnityPractice/wiki) に移動しました
