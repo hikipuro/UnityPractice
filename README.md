@@ -15,6 +15,7 @@ Unityの練習用リポジトリ
 - [Practice-011](src/Practice-011): コードでメッシュを変形する
 - [Practice-012](src/Practice-012): 外部 DLL と連携する
 - [Practice-013](src/Practice-013): シェーダーでテクスチャを作成する
+- [Practice-014](src/Practice-014): テキストリソースを実行時にロードする
 
 ## ライセンス
 - [MIT](LICENSE)
